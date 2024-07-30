@@ -19,10 +19,4 @@ Analyze and determine whether a detected internal network activity, specifically
 - Wireshark used to analyze and visualize the behavior and information of captured packets, helping to detect the involved addresses and the type of traffic present on the network.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
