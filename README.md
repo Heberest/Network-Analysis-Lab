@@ -10,7 +10,6 @@ Analyze and determine whether a detected internal network activity, specifically
 - recognize patterns indicative of port scanning, such as multiple connection attempts to different ports from a single source IP address within a short time frame.
 - Detect unusual behavior or deviations from expected network activity patterns that might suggest malicious intent.
 - Develop the ability to recognize and evaluate various tools and methods used for network reconnaissance and port scanning.
-- 
 - Providing a clear and detailed explanation of the port scanning activity, including its nature and potential risks.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
